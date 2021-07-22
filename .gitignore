@@ -1,6 +1,10 @@
 # Additional
 .DS_Store
 
+# Keeping external software outside of repo
+software/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
